@@ -1,0 +1,1 @@
+<view class="sex-style"><view class="sex-style-left"><view class="iconfont icon-bitian" style="color:#ff3838"></view><text>性别:</text></view><radio-group bindchange="{{a}}" class="sex-style-right"><view><radio value="男" checked></radio>男 </view><view><radio value="女"></radio>女 </view></radio-group></view>

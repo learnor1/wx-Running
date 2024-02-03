@@ -1,0 +1,1 @@
+<view class="user-center"><view class="user-top"><image src="/static/my_bar.png" mode=""></image><view class="user-name"> xxx </view></view><view class="user-service-list"><view class="service-style"><text>功能1</text></view><view class="service-style"><text>功能2</text></view><view class="service-style"><text>功能3</text></view></view></view>

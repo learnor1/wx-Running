@@ -1,0 +1,1 @@
+<view class="sex-style"><van-uploader wx:if="{{r0}}" u-t="m" u-i="18ed530f-0" bind:__l="__l"><van-button wx:if="{{r0}}" u-t="m" u-i="18ed530f-1,18ed530f-0" bind:__l="__l" u-p="{{a}}">上传图片</van-button></van-uploader></view>
